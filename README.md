@@ -29,10 +29,16 @@ The Social Network API was created for a social media startup that wanted an API
   A demo for this can be found here (https://drive.google.com/file/d/1kazD96hHOtiIwBRaWI4v6bWLWUJc2V4F/view)
 
     Example of the integrated terminal
-   ![Image of integrated terminal]()
+   ![Image of integrated terminal](img/integratedterminal.png)
 
-    Example of the Insomnia 
-   ![Image of integrated insomnia]()
+    Example of the Insomnia for Users
+   ![Image of insomnia](img/insomnia.users.png)
+
+   Example of the Insomnia for Thoughts
+   ![Image of insomnia](img/insomnia.thoughts.png)
+
+   Example of the Insomnia for Reactions
+   ![Image of insomnia](img/insomnia.reaction.png)
 
   ## Questions
   Please reach out to me at the below with any questions:
