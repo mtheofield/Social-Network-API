@@ -3,8 +3,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-
-
+The Social Network API was created for a social media startup that wanted an API for their social network that uses NoSQL database so that their website can handle large amounts of unstructured data. 
 
   ## Table of Contents
 
@@ -27,7 +26,7 @@
   This project is covered under the MIT license.
 
   ## Demo-Video
-  A demo for this can be found here ()
+  A demo for this can be found here (https://drive.google.com/file/d/1kazD96hHOtiIwBRaWI4v6bWLWUJc2V4F/view)
 
     Example of the integrated terminal
    ![Image of integrated terminal]()
